@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php
 require "anti-ddos-lite/anti-ddos-lite.php";
 
@@ -8,6 +7,8 @@ require "anti-ddos-lite/anti-ddos-lite.php";
 //
 
 ?>
+<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
